@@ -27,6 +27,41 @@ work well within the group.
 # PROFESSIONAL EXPERIENCE
 ## Sun* 07/2018 – now
 
+### **Project**: Classi  E-Portfolio									
+
+**Position** : Developer
+
+**Description**: A platform to support students and teachers in the learning process
+
+**Team Size**: 20
+
+**Responsibilities**: 
+
+Detail design, code and delivery
+
+Finished functions:
+- Timeline of student/teacher activity
+- The teacher assigns homework to the students
+- Students submit homework to the teacher
+- Student post activity
+- Students create albums for their activities
+
+
+### **Project**: Distribution system of IoT devices							
+
+**Position** : Developer
+
+**Description**: Distribution system of IoT devices
+
+**Team Size**: 5
+
+**Responsibilities**: 
+Code API(BE)
+Finished functions:
+- Sync Image of products to S3 Bucket
+- API get list purchart of user
+- API list products of user
+- API get categories
 
 
 ### **Project**: Comics Reading Application
