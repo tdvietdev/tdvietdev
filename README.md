@@ -11,7 +11,7 @@ Email: tdviet.dev@gmail.com
 </p>
 
 # SUMMARY
-I graduated from Hanoi National University majoring in software engineering
+I graduated from Hanoi National University majoring in software engineering.
 
 I'm a developer with 4 year of experience in Ruby on Rails and ReactJS frameworks, with knowledge of Object-Oriented Analysis and Design,
 Database Design.
