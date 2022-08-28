@@ -4,7 +4,7 @@
 Trinh Dinh Viet
 </p>
 <p align="center">
-Phone: +84 398 561 369
+Phone: +84 376 020 697
 </p>
 <p align="center">
 Email: tdviet.dev@gmail.com
