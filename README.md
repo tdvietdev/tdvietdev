@@ -11,25 +11,25 @@ Email: tdviet.dev@gmail.com
 </p>
 
 # SUMMARY
+I graduated from Hanoi National University majoring in software engineering
+
 I'm a developer with 4 year of experience in Ruby on Rails and ReactJS frameworks, with knowledge of Object-Oriented Analysis and Design,
 Database Design.
-I am considered as a self-learner, I teach myself how to program and I am considered a team-player too because I like to help other and
-work well within the group.
 
 # TECHNICAL SKILLS
 * Programming Languages: Ruby, JavaScript, HTML, CSS
-* Frameworks/ Platforms:Ruby on Rails, ReactJS, Angular
+* Frameworks/ Platforms: Ruby on Rails, ReactJS, Angular
 * Database Management Systems: MySQL, Postgres, Redis
 * Version Control: Git
 * Other: Linux Ubuntu, Amazon Cloud(RDS, EC2, S3, SES, ...)
 * Soft Skill: Team work
 
 # PROFESSIONAL EXPERIENCE
-## Sun* 07/2018 – now
+## 07/2018 → 07/2021 : Sun*
 
 ### **Project**: Classi  E-Portfolio									
 
-**Position** : Developer
+**Position**: Developer
 
 **Description**: A platform to support students and teachers in the learning process
 
@@ -50,7 +50,7 @@ Finished functions:
 
 ### **Project**: Distribution system of IoT devices							
 
-**Position** : Developer
+**Position**: Developer
 
 **Description**: Distribution system of IoT devices
 
@@ -90,7 +90,7 @@ Finished functions:
 
 ### **Project**: Comic Distribution system
 
-**Position** : Developer
+**Position**: Developer
 
 **Description**: Develop comic book selling system for publishers
 
@@ -115,7 +115,7 @@ Finished functions:
 
 ### **Project**: Construction logistics platform					
 
-**Position** : Developer
+**Position**: Developer
 
 **Description**: Develop vehicle distribution system
 
@@ -128,4 +128,45 @@ Finished functions:
 - User, vehicle management
 - Schedule of each vehicle in each project 
 - Project managements
+
+
+
+## 07/2021 → 10/2021 : Cowell
+
+### **Project**: [Temona](https://temona.co.jp/)			
+
+**Position**: Developer
+
+**Description**: Website ordering food for restaurants
+
+**Team Size**: 5
+
+**Responsibilities**: 
+Code BE, design integration and code logic for FE
+
+Finished functions:
+- Maintain and fix existing bugs
+- Add item to cart
+- Create bill and order
+- Email order information to clients
+- Write test cases for the features  have done
+
+## 07/2021 → 10/2021 : ConciergeU
+
+### **Project**: [Kuzen](https://www.kuzen.io/)			
+
+**Position**: Developer
+
+**Description**: The system generates chatbots that answer automatically based on scenarios without using code. it can integrate into many chat apps: Slack, Line, Intagram and Web-plugin
+
+**Team Size**: 25
+
+**Responsibilities**: Fix bugs and develop new features on project's services
+- Auth : Client management system, client company, session 
+- Executor : Analyze user conversations to provide answers based on generated scenarios
+- Editor : Create scenario on UI for chatbot to respond to users based on it
+- Chatbot gateway : Receive client messages from chat apps and put them to the system to process and reply
+
+# PASTIMES AND ACTIVITIES
+I spent my free time for listen to music, reading books or IT blogs, play the video game. And I like to travel and explore new places.
 
