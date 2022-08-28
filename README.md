@@ -151,7 +151,7 @@ Finished functions:
 - Email order information to clients
 - Write test cases for the features  have done
 
-## 07/2021 → 10/2021 : ConciergeU
+## 07/2021 → Now : ConciergeU
 
 ### **Project**: [Kuzen](https://www.kuzen.io/)			
 
