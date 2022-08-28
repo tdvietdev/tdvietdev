@@ -35,9 +35,7 @@ work well within the group.
 
 **Team Size**: 20
 
-**Responsibilities**: 
-
-Detail design, code and delivery
+**Responsibilities**: Detail design, code and delivery
 
 Finished functions:
 - Timeline of student/teacher activity
@@ -46,6 +44,9 @@ Finished functions:
 - Student post activity
 - Students create albums for their activities
 
+<p align="center">
+  <b>***</b>
+</p>
 
 ### **Project**: Distribution system of IoT devices							
 
@@ -64,6 +65,10 @@ Finished functions:
 - API get categories
 
 
+<p align="center">
+  <b>***</b>
+</p>
+
 ### **Project**: Document management system: 						
 
 **Position** : Developer
@@ -79,7 +84,9 @@ Finished functions:
 - Account management
 - Fix UI bugs
 
-
+<p align="center">
+  <b>***</b>
+</p>
 
 ### **Project**: Comic Distribution system
 
@@ -101,6 +108,10 @@ Finished functions:
 - Banner on TOP page
 - Fix bug for other features during maintenance
 
+
+<p align="center">
+  <b>***</b>
+</p>
 
 ### **Project**: Construction logistics platform					
 
