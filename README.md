@@ -69,7 +69,7 @@ Finished functions:
   <b>***</b>
 </p>
 
-### **Project**: Document management system: 						
+### **Project**: Document management system				
 
 **Position** : Developer
 
