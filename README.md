@@ -64,15 +64,57 @@ Finished functions:
 - API get categories
 
 
-### **Project**: Comics Reading Application
+### **Project**: Document management system: 						
+
 **Position** : Developer
 
-**Description**: An application included the web app and mobile app for delivery comics for the user, the user can reading comics
-that included three types: free, charging a fee or monthly subscription.
+**Description**: Document management system for a library
 
-**Team Size**: 13
+**Team Size**: 5
 
-**Responsibilities**:Discuss with customers and teammates to clarify the requirement and develop the feature for application based
-on customer’s request. Working and discussing with native to design API interface for the native. Reproducing and fix the bug in
-the application.
+**Responsibilities**: 
+Code BE and FE
+Finished functions:
+- Downloaded document management
+- Account management
+- Fix UI bugs
+
+
+
+### **Project**: Comic Distribution system
+
+**Position** : Developer
+
+**Description**: Develop comic book selling system for publishers
+
+**Team Size**: 25
+
+**Responsibilities**: 
+Code BE, design integration and code logic for FE
+
+Finished functions:
+- List of favorite comics of the day/month/year
+- Like comment a comic book
+- User management
+- Author management
+- System to receive free coin every day
+- Banner on TOP page
+- Fix bug for other features during maintenance
+
+
+### **Project**: Construction logistics platform					
+
+**Position** : Developer
+
+**Description**: Develop vehicle distribution system
+
+**Team Size**: 15
+
+**Responsibilities**: 
+Code BE, design integration and code logic for FE
+
+Finished functions:
+- User, vehicle management
+- Schedule of each vehicle in each project 
+- Project managements
 
