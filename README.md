@@ -4,6 +4,9 @@
 Trinh Dinh Viet
 </p>
 <p align="center">
+Birthday: 02/06/1997
+</p>
+<p align="center">
 Phone: +84 376 020 697
 </p>
 <p align="center">
