@@ -7,17 +7,12 @@ Trinh Dinh Viet
 Birthday: 02/06/1997
 </p>
 <p align="center">
-Phone: +84 376 020 697
-</p>
-<p align="center">
 Email: tdviet.dev@gmail.com
 </p>
 
 # SUMMARY
-I graduated from Hanoi National University majoring in software engineering.
-
-I'm a developer with 4 year of experience in Ruby on Rails and ReactJS frameworks, with knowledge of Object-Oriented Analysis and Design,
-Database Design.
+I graduated from Vietnam National University, Hanoi majoring in software engineering.
+I'm a developer with 4 year of experience in Ruby on Rails and ReactJS frameworks, with knowledge of Object-Oriented Analysis and Design, Database Design.
 
 # TECHNICAL SKILLS
 * Programming Languages: Ruby, JavaScript, HTML, CSS
