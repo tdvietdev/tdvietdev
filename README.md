@@ -1,8 +1,8 @@
 
 
-<p align="center">
+<h1 align="center">
 Trinh Dinh Viet
-</p>
+</h1>
 <p align="center">
 Birthday: 02/06/1997
 </p>
