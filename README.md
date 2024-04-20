@@ -11,14 +11,15 @@ Email: tdviet.dev@gmail.com
 </p>
 
 # SUMMARY
-I graduated from Vietnam National University, Hanoi, majoring in software engineering. I'm a Ruby on Rails and ReactJS developer with 4 years of experience, as well as knowledge of Object-Oriented Analysis and Design and Database Design.
+I graduated from Vietnam National University, Hanoi, majoring in software engineering. I'm a Ruby on Rails and ReactJS developer with 5 years of experience, as well as knowledge of Object-Oriented Analysis and Design and Database Design.
 
 # TECHNICAL SKILLS
 * Programming Languages: Ruby, JavaScript, HTML, CSS
-* Frameworks/ Platforms: Ruby on Rails, ReactJS, Angular
-* Database Management Systems: MySQL, Postgres, Redis
+* Frameworks/ Platforms: Ruby on Rails, Angular 2+, ReactJS, NextJs, VueJs
+* Database Management Systems: MySQL, Postgres, Redis, FireStore
 * Version Control: Git
-* Other: Linux Ubuntu, Amazon Cloud(RDS, EC2, S3, SES, ...)
+* Cloud: Amazon Cloud(RDS, EC2, S3, SES, Batch, Athena, Lightsail, ...)
+* Other: Linux Ubuntu, RabbitMQ, ...
 * Soft Skill: Team work
 
 # PROFESSIONAL EXPERIENCE
