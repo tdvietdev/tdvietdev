@@ -162,7 +162,8 @@ Finished functions:
 
 **Team Size**: 25
 
-**Responsibilities**: Fix bugs and implement new features on project's services. Supports error investigation in production environments. Support entering data, editing data, synthesizing data on the DB to export reports according to customer requirements, customer success team. Monitor the system, detect and investigate errors during operation (sidekiq - server down, out of memory, app crash) through tools such as Amazon CloudWatch, DataDog, Sentry
+**Responsibilities**: Fix bugs, refactor and implement new features on project's services. Supports error investigation in production environments. Support entering data, editing data, synthesizing data on the DB to export reports according to customer requirements, customer success team. Monitor the system, detect and investigate errors during operation (sidekiq - server down, out of memory, app crash) through tools such as Amazon CloudWatch, DataDog, Sentry,... Write automation tests for ReactJS app using Playwright
+
 Some service in projects
 - Auth : Client management system, client company, session 
 - Executor : Analyze user conversations to provide answers based on generated scenarios
@@ -172,4 +173,5 @@ Some service in projects
 - Notification : Create jobs to send system notifications to users on LINE, Ms Team
 - Analytic : Synthesize data, draw statistical charts, export reports, statistics on visits, clicks, replies, ...
 - Microservices plugin : Internal requests between services are written as gems, which are plugged into each service
+- Exit intent popup
 
