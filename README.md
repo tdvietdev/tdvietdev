@@ -25,7 +25,79 @@ I graduated from Vietnam National University, Hanoi, majoring in software engine
 * Other: Linux Ubuntu, Docker
 
 # PROFESSIONAL EXPERIENCE
+
+## 07/2021 → Present : ConciergeU
+
+### **Project**: [Kuzen](https://www.kuzen.io/)			
+
+**Position**: FullStack Developer
+
+**Description**: The system generates chatbots that answer automatically based on scenarios without using code. it can integrate into many chat apps: Slack, Line, Intagram and Web-plugin
+
+**Team Size**: 25
+
+**Responsibilities**: Fix bugs, refactor and implement new features on project's services. Supports error investigation in production environments. Support entering data, editing data, synthesizing data on the DB to export reports according to customer requirements, customer success team. Monitor the system, detect and investigate errors during operation (sidekiq - server down, out of memory, app crash) through tools such as Amazon CloudWatch, DataDog, Sentry,... Write automation tests for ReactJS app using Playwright
+
+Some service in projects
+- Auth : Client management system, client company, session 
+- Executor : Analyze user conversations to provide answers based on generated scenarios
+- Editor : Create scenario on UI for chatbot to respond to users based on it
+- Chatbot gateway : Receive client messages from chat apps and put them to the system to process and reply
+- Media: Manage user-uploaded files, create previews and thumbnails, ...
+- Notification : Create jobs to send system notifications to users on LINE, Ms Team
+- Analytic : Synthesize data, draw statistical charts, export reports, statistics on visits, clicks, replies, ...
+- Microservices plugin : Internal requests between services are written as gems, which are plugged into each service
+- Exit intent popup
+
+## 07/2021 → 10/2021 : Cowell
+
+### **Project**: [Temona](https://temona.co.jp/)			
+
+**Position**: FullStack
+
+**Description**: Website ordering food for restaurants
+
+**Team Size**: 5
+
+**Responsibilities**: 
+Code BE, design integration and code logic for FE
+
+Finished functions:
+- Maintain and fix existing bugs
+- Add item to cart
+- Create bill and order
+- Email order information to clients
+- Add rspec test cases for uncovered code, ...
+
+
 ## 07/2018 → 07/2021 : Sun*
+
+### **Project**: Comic Distribution system
+
+**Position**: FullStack Developer
+
+**Description**: Develop comic book selling system for publishers
+
+**Team Size**: 25
+
+**Responsibilities**: 
+Code BE, design integration and code logic for FE. Manage client data, perform requests such as investigating account and payment problems. Fix bugs that arise while operating the service.
+
+Finished functions:
+- List of favorite comics of the day/month/year
+- Like comment a comic book
+- User management
+- Author management
+- Story preview
+- System to receive free coin every day
+- Banner on TOP page
+- Promotional: Lucky spin, registration to receive rewards, discounts
+- Fix bug for other features during maintenance, ...
+
+
+<p align="center">
+  <b>***</b>
+</p>
 
 ### **Project**: Classi  E-Portfolio									
 
@@ -88,33 +160,6 @@ Finished functions:
   <b>***</b>
 </p>
 
-### **Project**: Comic Distribution system
-
-**Position**: FullStack Developer
-
-**Description**: Develop comic book selling system for publishers
-
-**Team Size**: 25
-
-**Responsibilities**: 
-Code BE, design integration and code logic for FE. Manage client data, perform requests such as investigating account and payment problems. Fix bugs that arise while operating the service.
-
-Finished functions:
-- List of favorite comics of the day/month/year
-- Like comment a comic book
-- User management
-- Author management
-- Story preview
-- System to receive free coin every day
-- Banner on TOP page
-- Promotional: Lucky spin, registration to receive rewards, discounts
-- Fix bug for other features during maintenance, ...
-
-
-<p align="center">
-  <b>***</b>
-</p>
-
 ### **Project**: Construction logistics platform					
 
 **Position**: FullStack Developer
@@ -131,48 +176,4 @@ Finished functions:
 - Schedule of each vehicle in each project 
 - Project managements
 - Tracking the current location, status and distance traveled of each vehicle, ...
-
-
-## 07/2021 → 10/2021 : Cowell
-
-### **Project**: [Temona](https://temona.co.jp/)			
-
-**Position**: FullStack
-
-**Description**: Website ordering food for restaurants
-
-**Team Size**: 5
-
-**Responsibilities**: 
-Code BE, design integration and code logic for FE
-
-Finished functions:
-- Maintain and fix existing bugs
-- Add item to cart
-- Create bill and order
-- Email order information to clients
-- Add rspec test cases for uncovered code, ...
-
-## 07/2021 → Present : ConciergeU
-
-### **Project**: [Kuzen](https://www.kuzen.io/)			
-
-**Position**: FullStack Developer
-
-**Description**: The system generates chatbots that answer automatically based on scenarios without using code. it can integrate into many chat apps: Slack, Line, Intagram and Web-plugin
-
-**Team Size**: 25
-
-**Responsibilities**: Fix bugs, refactor and implement new features on project's services. Supports error investigation in production environments. Support entering data, editing data, synthesizing data on the DB to export reports according to customer requirements, customer success team. Monitor the system, detect and investigate errors during operation (sidekiq - server down, out of memory, app crash) through tools such as Amazon CloudWatch, DataDog, Sentry,... Write automation tests for ReactJS app using Playwright
-
-Some service in projects
-- Auth : Client management system, client company, session 
-- Executor : Analyze user conversations to provide answers based on generated scenarios
-- Editor : Create scenario on UI for chatbot to respond to users based on it
-- Chatbot gateway : Receive client messages from chat apps and put them to the system to process and reply
-- Media: Manage user-uploaded files, create previews and thumbnails, ...
-- Notification : Create jobs to send system notifications to users on LINE, Ms Team
-- Analytic : Synthesize data, draw statistical charts, export reports, statistics on visits, clicks, replies, ...
-- Microservices plugin : Internal requests between services are written as gems, which are plugged into each service
-- Exit intent popup
 
