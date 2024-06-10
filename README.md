@@ -19,9 +19,10 @@ I graduated from Vietnam National University, Hanoi, majoring in software engine
 * Database Management Systems: MySQL, Postgres, Redis, FireStore
 * Version Control: Git
 * Cloud: Amazon Cloud(RDS, EC2, S3, SES, Batch, Athena, Lightsail, ...)
-* Other: Linux Ubuntu, Docker
 * Development tools: JIRA, Notion, Redmine, Google Docs, Google Sheets, ...
 * Logs and bugs monitoring: Datadog, Sentry
+* Other: Linux Ubuntu, Docker
+
 # PROFESSIONAL EXPERIENCE
 ## 07/2018 → 07/2021 : Sun*
 
@@ -40,8 +41,7 @@ Finished functions:
 - The teacher assigns homework to the students
 - Students submit homework to the teacher
 - Student post activity
-- Students create albums for their activities
-- ...
+- Students create albums for their activities,...
 
 <p align="center">
   <b>***</b>
@@ -61,8 +61,7 @@ Finished functions:
 - Sync Image of products to S3 Bucket
 - API get list purchart of user
 - API list products of user
-- API get categories
-- ...
+- API get categories, ...
 
 
 <p align="center">
@@ -82,7 +81,7 @@ Code BE and FE
 Finished functions:
 - Downloaded document management
 - Account management
-- Fix UI bugs
+- Fix UI bugs, ...
 
 <p align="center">
   <b>***</b>
@@ -108,7 +107,7 @@ Finished functions:
 - System to receive free coin every day
 - Banner on TOP page
 - Promotional: Lucky spin, registration to receive rewards, discounts
-- Fix bug for other features during maintenance
+- Fix bug for other features during maintenance, ...
 
 
 <p align="center">
@@ -130,7 +129,7 @@ Finished functions:
 - Driver, vehicle management
 - Schedule of each vehicle in each project 
 - Project managements
-- Tracking the current location, status and distance traveled of each vehicle
+- Tracking the current location, status and distance traveled of each vehicle, ...
 
 
 ## 07/2021 → 10/2021 : Cowell
@@ -151,9 +150,9 @@ Finished functions:
 - Add item to cart
 - Create bill and order
 - Email order information to clients
-- Write test cases for the features  have done
+- Add rspec test cases for uncovered code, ...
 
-## 07/2021 → Now : ConciergeU
+## 07/2021 → Present : ConciergeU
 
 ### **Project**: [Kuzen](https://www.kuzen.io/)			
 
@@ -163,12 +162,9 @@ Finished functions:
 
 **Team Size**: 25
 
-**Responsibilities**: Fix bugs and develop new features on project's services
+**Responsibilities**: Fix bugs and implement new features on project's services
 - Auth : Client management system, client company, session 
 - Executor : Analyze user conversations to provide answers based on generated scenarios
 - Editor : Create scenario on UI for chatbot to respond to users based on it
 - Chatbot gateway : Receive client messages from chat apps and put them to the system to process and reply
-
-# PASTIMES AND ACTIVITIES
-I spent my free time for listen to music, reading books or IT blogs, play the video game. And I like to travel and explore new places.
 
