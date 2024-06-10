@@ -178,8 +178,10 @@ Finished functions:
 - Tracking the current location, status and distance traveled of each vehicle, ...
 
 ## Small personal projects
+
 ### My wedding invitation : https://vietmai-wedding.online
 Using VueJS and using Firestore to store blessings and Google Sheets to store and update the guest list.
+
 ### IOT https://github.com/tdvietdev/iot
 Small project to turn on and off electrical and water equipment, measure temperature and humidity in my vegetable garden. Using CodeIgniter for Backend, Mysql, C for ESP8266 module
 
