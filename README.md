@@ -21,7 +21,7 @@ I graduated from Vietnam National University, Hanoi, majoring in software engine
 * Cloud: Knowledge and hands-on experience with Amazon Cloud(RDS, EC2, S3, SES, Batch, Athena, Lightsail, ...)
 * Development tools: Knowledge and hands-on experience with JIRA, Notion, Redmine, Google Docs, Google Sheets, ...
 * Logs and bugs monitoring: Knowledge and hands-on experience Datadog, Sentry
-* Familiarity with software development methodologies such as Agile/Scrum
+* Software Development Methodologies: Familiarity with Agile/Scrum
 * Other: Linux Ubuntu, Docker
 
 # PROFESSIONAL EXPERIENCE
