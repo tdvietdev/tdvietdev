@@ -15,12 +15,12 @@ I graduated from Vietnam National University, Hanoi, majoring in software engine
 
 # TECHNICAL SKILLS
 * Programming Languages: Ruby, JavaScript, HTML, CSS
-* Frameworks/ Platforms: Ruby on Rails, Angular 2+, ReactJS, NextJs, ...
+* Frameworks/ Platforms: Ruby on Rails, Angular 2+, ReactJS, NextJs
 * Database Management Systems: MySQL, Postgres, Redis, FireStore
 * Version Control: Git
 * Cloud: Amazon Cloud(RDS, EC2, S3, SES, Batch, Athena, Lightsail, ...)
-* Other: Linux Ubuntu, ...
-* Development tools: JIRA, Notion, Google Docs, Google Sheets, ...
+* Other: Linux Ubuntu, Docker
+* Development tools: JIRA, Notion, Redmine, Google Docs, Google Sheets, ...
 * Logs and bugs monitoring: Datadog, Sentry
 # PROFESSIONAL EXPERIENCE
 ## 07/2018 → 07/2021 : Sun*
@@ -33,7 +33,7 @@ I graduated from Vietnam National University, Hanoi, majoring in software engine
 
 **Team Size**: 20
 
-**Responsibilities**: Detail design, code and delivery
+**Responsibilities**: Detail design (Database, Project Structure), code and delivery
 
 Finished functions:
 - Timeline of student/teacher activity
@@ -41,6 +41,7 @@ Finished functions:
 - Students submit homework to the teacher
 - Student post activity
 - Students create albums for their activities
+- ...
 
 <p align="center">
   <b>***</b>
@@ -61,6 +62,7 @@ Finished functions:
 - API get list purchart of user
 - API list products of user
 - API get categories
+- ...
 
 
 <p align="center">
@@ -95,15 +97,17 @@ Finished functions:
 **Team Size**: 25
 
 **Responsibilities**: 
-Code BE, design integration and code logic for FE
+Code BE, design integration and code logic for FE. Manage client data, perform requests such as investigating account and payment problems. Fix bugs that arise while operating the service.
 
 Finished functions:
 - List of favorite comics of the day/month/year
 - Like comment a comic book
 - User management
 - Author management
+- Story preview
 - System to receive free coin every day
 - Banner on TOP page
+- Promotional: Lucky spin, registration to receive rewards, discounts
 - Fix bug for other features during maintenance
 
 
@@ -123,10 +127,10 @@ Finished functions:
 Code BE, design integration and code logic for FE
 
 Finished functions:
-- User, vehicle management
+- Driver, vehicle management
 - Schedule of each vehicle in each project 
 - Project managements
-
+- Tracking the current location, status and distance traveled of each vehicle
 
 
 ## 07/2021 → 10/2021 : Cowell
