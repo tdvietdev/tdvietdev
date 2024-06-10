@@ -17,7 +17,7 @@ I graduated from Vietnam National University, Hanoi, majoring in software engine
 * Programming Languages: Strong proficiency in Ruby, JavaScript, HTML, CSS
 * Frameworks/ Platforms: Strong proficiency in Ruby on Rails, ReactJS. Familiarity with Angular 2+, NextJs, VueJs, Chrome extention
 * Database Management Systems: Strong proficiency in MySQL, Postgres, Redis, FireStore
-* Version Control: Git
+* Version Control: Strong proficiency Git
 * Cloud: Knowledge and hands-on experience with Amazon Cloud(RDS, EC2, S3, SES, Batch, Athena, Lightsail, ...)
 * Development tools: Knowledge and hands-on experience with JIRA, Notion, Redmine, Google Docs, Google Sheets, ...
 * Logs and bugs monitoring: Knowledge and hands-on experience Datadog, Sentry
@@ -29,7 +29,7 @@ I graduated from Vietnam National University, Hanoi, majoring in software engine
 
 ### **Project**: Classi  E-Portfolio									
 
-**Position**: Developer
+**Position**: FullStack Developer
 
 **Description**: A platform to support students and teachers in the learning process
 
@@ -50,7 +50,7 @@ Finished functions:
 
 ### **Project**: Distribution system of IoT devices							
 
-**Position**: Developer
+**Position**: BE Developer
 
 **Description**: Distribution system of IoT devices
 
@@ -71,7 +71,7 @@ Finished functions:
 
 ### **Project**: Document management system				
 
-**Position** : Developer
+**Position** : FullStack Developer
 
 **Description**: Document management system for a library
 
@@ -90,7 +90,7 @@ Finished functions:
 
 ### **Project**: Comic Distribution system
 
-**Position**: Developer
+**Position**: FullStack Developer
 
 **Description**: Develop comic book selling system for publishers
 
@@ -117,7 +117,7 @@ Finished functions:
 
 ### **Project**: Construction logistics platform					
 
-**Position**: Developer
+**Position**: FullStack Developer
 
 **Description**: Develop vehicle distribution system
 
@@ -137,7 +137,7 @@ Finished functions:
 
 ### **Project**: [Temona](https://temona.co.jp/)			
 
-**Position**: Developer
+**Position**: FullStack
 
 **Description**: Website ordering food for restaurants
 
@@ -157,7 +157,7 @@ Finished functions:
 
 ### **Project**: [Kuzen](https://www.kuzen.io/)			
 
-**Position**: Developer
+**Position**: FullStack Developer
 
 **Description**: The system generates chatbots that answer automatically based on scenarios without using code. it can integrate into many chat apps: Slack, Line, Intagram and Web-plugin
 
