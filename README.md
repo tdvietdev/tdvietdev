@@ -163,8 +163,12 @@ Finished functions:
 **Team Size**: 25
 
 **Responsibilities**: Fix bugs and implement new features on project's services
+Some service in projects
 - Auth : Client management system, client company, session 
 - Executor : Analyze user conversations to provide answers based on generated scenarios
 - Editor : Create scenario on UI for chatbot to respond to users based on it
 - Chatbot gateway : Receive client messages from chat apps and put them to the system to process and reply
+- Media: Manage user-uploaded files, create previews and thumbnails, ...
+- Notification : Create jobs to send system notifications to users on LINE, Ms Team
+- Analytic : Synthesize data, draw statistical charts, export reports, statistics on visits, clicks, replies, ...
 
