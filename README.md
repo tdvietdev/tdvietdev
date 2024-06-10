@@ -15,13 +15,13 @@ I graduated from Vietnam National University, Hanoi, majoring in software engine
 
 # TECHNICAL SKILLS
 * Programming Languages: Ruby, JavaScript, HTML, CSS
-* Frameworks/ Platforms: Ruby on Rails, Angular 2+, ReactJS, NextJs, VueJs
+* Frameworks/ Platforms: Ruby on Rails, Angular 2+, ReactJS, NextJs, ...
 * Database Management Systems: MySQL, Postgres, Redis, FireStore
 * Version Control: Git
 * Cloud: Amazon Cloud(RDS, EC2, S3, SES, Batch, Athena, Lightsail, ...)
-* Other: Linux Ubuntu, RabbitMQ, ...
-* Soft Skill: Team work
-
+* Other: Linux Ubuntu, ...
+* Development tools: JIRA, Notion, Google Docs, Google Sheets, ...
+* Logs and bugs monitoring: Datadog, Sentry
 # PROFESSIONAL EXPERIENCE
 ## 07/2018 → 07/2021 : Sun*
 
