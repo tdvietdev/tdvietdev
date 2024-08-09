@@ -26,9 +26,9 @@ I graduated from Vietnam National University, Hanoi, majoring in software engine
 
 # PROFESSIONAL EXPERIENCE
 
-## 07/2021 → Present : ConciergeU
+## 07/2021 → Present : Freelancer
 
-### **Project**: [Kuzen](https://www.kuzen.io/)			
+### **Project**: Chatbot			
 
 **Position**: FullStack Developer
 
