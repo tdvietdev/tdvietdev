@@ -179,7 +179,7 @@ Finished functions:
 
 ## Small personal projects
 
-### My wedding invitation : https://vietmai-wedding.online
+### My wedding invitation : [https://vietmai-wedding.online](https://viet-mai-wedding-4qrjdwu52-tdvietdev.vercel.app/)
 Using VueJS and using Firestore to store blessings and Google Sheets to store and update the guest list.
 
 ### IOT https://github.com/tdvietdev/iot
